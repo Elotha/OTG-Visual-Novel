@@ -1,0 +1,1 @@
+Þimdi bu dosya niye burada var diye soracaksýn, normal tabi sorman. Çünkü, direkt klasörleri githuba atamýyorsun, illa içinde dosya olmasý lazým. Klasörlerin de gelmesi için her yere geçici dosya koydum. Baþka bir dosya geldiði zaman bu dosyalar silinecek.
